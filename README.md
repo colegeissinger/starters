@@ -1,7 +1,7 @@
-starters
+Starters - WordPress Starter Theme for Web Developers
 ========
 
-WordPress Starter Theme for Web Developers - <strong>Currently under heave development!! The repo should be filled by the end of the year with the first beta copy of the starter theme.</strong>
+<strong>Currently under heave development!! The repo should be filled by the end of the year with the first beta copy of the starter theme.</strong>
 
 
 Starter WordPress Theme for Developers
