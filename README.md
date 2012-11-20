@@ -14,7 +14,7 @@ Built on SASS &amp; Compass
 
 In today's web industry, <a href="http://sass-lang.com/">SASS</a> &amp; <a href="http://compass-style.org/">Compass</a> is the bee's knees. We baked in all that goodness right into the core of Starters. To harness the power of SASS &amp; Compass we are using the SASS fluid grid system of Foundation to power our layouts to increase production time. Out of the box Foundation is phenomenal, however, we simplified things a little further by providing optional custom styles to reduce the load of classes if you wish to go that route.
 
-Built on SASS &amp; Compass
+Customizable with Easy Plug-and-Play
 ----------
 
 With over a near decade of WordPress experience, Starters has a <strong>bunch</strong> of pre-built functionality to cut your development time in half. Providing ready made navigation menus, a butt-load of shortcodes, auto wp_head() cleaning, configurable theme options and many more options to be announced!
